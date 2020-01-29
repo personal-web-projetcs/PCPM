@@ -23,3 +23,11 @@ The modelling was Object Oriented and has listed the classes in order to attend 
 - ProductionOrder
 - ProductionSimulation
 - Supplier
+
+## Additional
+
+More details about the project and development will be updated on /doc folder.
+
+## Contact:
+
+email: cruzguimaraes2009@gmail.com
